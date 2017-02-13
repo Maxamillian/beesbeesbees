@@ -7,5 +7,3 @@ var Bee = function() {
 
 Bee.prototype = Object.create(Grub.prototype);
 Bee.prototype.constructor = Bee;
-
-// what does line 9 do?
